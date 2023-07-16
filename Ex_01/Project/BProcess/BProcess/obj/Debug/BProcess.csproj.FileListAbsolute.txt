@@ -1,0 +1,8 @@
+D:\8AMWE\Project\BProcess\BProcess\bin\Debug\BProcess.exe.config
+D:\8AMWE\Project\BProcess\BProcess\bin\Debug\BProcess.exe
+D:\8AMWE\Project\BProcess\BProcess\bin\Debug\BProcess.pdb
+D:\8AMWE\Project\BProcess\BProcess\obj\Debug\BProcess.csproj.AssemblyReference.cache
+D:\8AMWE\Project\BProcess\BProcess\obj\Debug\BProcess.csproj.SuggestedBindingRedirects.cache
+D:\8AMWE\Project\BProcess\BProcess\obj\Debug\BProcess.csproj.CoreCompileInputs.cache
+D:\8AMWE\Project\BProcess\BProcess\obj\Debug\BProcess.exe
+D:\8AMWE\Project\BProcess\BProcess\obj\Debug\BProcess.pdb

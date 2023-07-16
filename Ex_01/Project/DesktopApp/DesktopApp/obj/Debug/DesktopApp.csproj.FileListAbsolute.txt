@@ -1,0 +1,11 @@
+D:\8AMWE\Project\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe.config
+D:\8AMWE\Project\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe
+D:\8AMWE\Project\DesktopApp\DesktopApp\bin\Debug\DesktopApp.pdb
+D:\8AMWE\Project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.AssemblyReference.cache
+D:\8AMWE\Project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.SuggestedBindingRedirects.cache
+D:\8AMWE\Project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Form1.resources
+D:\8AMWE\Project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+D:\8AMWE\Project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+D:\8AMWE\Project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+D:\8AMWE\Project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.exe
+D:\8AMWE\Project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.pdb

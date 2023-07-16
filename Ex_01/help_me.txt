@@ -1,0 +1,30 @@
+
+Console
+Command Prompt - Batch processing
+Customers - text files EmpNo name salary 1-10000000 partial update/full data 1-2 50000
+move DB -> Table -> columns EmpNo name salary
+on daily basis, 
+script -> logger   34th 1-33 S , 34-issue data missing, 35-100 S
+email -> 
+34-issue 
+data missing, 
+35-100 S
+
+Desktop - client-server APP
+Inranet - LAN
+
+
+Web application
+Internet - WAN
+
+Mobile Application
+Sevices
+
+https://localhost: laptop
+44340/ Google search
+44350/ Google Map
+
+
+
+
+
