@@ -1,0 +1,94 @@
+C#
+variables
+=========
+int
+long
+string
+bool
+float
+double
+decimal
+
+
+Classes & Objects
+Class Car_Seating {
+}
+Class Car_Engine {
+	protected int Engine_Number;
+	Public Engine_Design() {
+		Engine_Number = 1232423522;
+	}
+}
+Class Car_Light {
+	
+	member variables; light /properties
+	public string light;
+	
+	
+	//constructor
+	public Car() {
+		// initialise the variables while initialise the object
+		light = "off";
+	}
+	functions/methods
+	member initialsetup_to_start_the_car() {
+		light = "white";
+	};
+	//overloading
+	public member start() {
+		initialsetup_to_start_the_car();
+		light = "white";
+	};
+
+	public member accelerate() {
+		daylight = "off";
+		nigthlight = "white";
+	};
+	public member break() {
+		light = "red";
+	};
+	
+	property variables { get; set; }
+}
+Car : Car_Light, Class Car_Engine, Class Car_Seating {
+	public member start() {
+		initialsetup_to_start_the_car();
+		light = "white";
+	};
+}
+
+Driving the Car(s)
+==================
+Car_Light nissanlighting = new Car_Light();
+nissanlighting.start();
+Car nissan = new Car();
+nissan.start(); // come out of the home
+nissan.start(); // onroad driving
+nissan.light = "Green"; //set
+nissan.accelerate();
+nissan.break();
+nissan.accelerate();
+string flashlight = nissan.light; //get
+nissan.stop();
+
+Access specifiers/modifiers
+---------------------------
+private - within a class
+public - outside of the class
+protected - works only in same class (base) and derived class
+internal - within a assembly
+internal protected
+
+OOPS - Object Oriented Programming system
+=========================================
+1. discuss about Object(s)
+2. multiple classes
+3. collaborate with classes -> Polymorphysm, Inheritance
+4. Information Hiding - security -> Encapsulation - Data hiding
+5. Overloading & Overriding (same method name with diff parameters)
+
+Assembly
+========
+Project/Namespace - collection of classes
+DLL -> EXE
+EXE
